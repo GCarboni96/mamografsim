@@ -25,4 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Simulador de mamografías';
+$string['pluginname'] = 'Simulador de mamografías test';
+$string['mamografsimfieldset'] = 'mamografsimfieldset';
+$string['modulename'] = 'modulename';
+$string['pluginadministration'] = 'pluginadministration';
+$string['mamografsimname'] = 'mamografsimname';
+$string['mamografsimsettings'] = 'mamografsimsettings';

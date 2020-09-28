@@ -62,5 +62,5 @@ $PAGE->set_heading(format_string($course->fullname));
 $PAGE->set_context($modulecontext);
 
 echo $OUTPUT->header();
-
+echo "test";
 echo $OUTPUT->footer();
